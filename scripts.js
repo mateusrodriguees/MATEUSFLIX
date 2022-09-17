@@ -25,7 +25,7 @@ document.writeln("</section>");
 
 let listAnimeImages = ["https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Shingeki_no_Kyojin_1%C2%AA_temporada.jpg/230px-Shingeki_no_Kyojin_1%C2%AA_temporada.jpg" , "https://img.elo7.com.br/product/zoom/1EE247E/big-poster-do-anime-one-punch-man-tamanho-90x-0-cm-lo009-decoracao-geek.jpg" , "https://img1.ak.crunchyroll.com/i/spire1/6a63d28dc4193210a69c83f1fca67bf21325886769_main.jpg" , "https://br.web.img2.acsta.net/pictures/20/08/11/20/56/3761241.jpg" , "https://deathnote.com.br/img/death-note/cover.jpg" , "https://img1.ak.crunchyroll.com/i/spire4/5568ffb263f6bcba85a639980b80dd9a1612993223_main.jpg", "https://infoanime.com.br/wa_1_p/pa_13ddw877z4/big_onepiece.jpg"];
 
-let listAnimeLink = ["https://www.crunchyroll.com/pt-br/maturity_wall?next=%2Fpt-br%2Fattack-on-titan%3Fskip_wall%3D1" , "https://www.crunchyroll.com/pt-br/one-punch-man" , "https://www.crunchyroll.com/pt-br/another" , "https://www.netflix.com/br/title/80050063" , "https://www.netflix.com/br/title/70204970" , "https://www.netflix.com/br/title/70205012","https://www.netflix.com/br/title/80107103"];
+let listAnimeLink = ["https://www.funimation.com/shows/attack-on-titan/" , "https://www.crunchyroll.com/pt-br/one-punch-man" , "https://www.crunchyroll.com/pt-br/another" , "https://www.netflix.com/br/title/80050063" , "https://www.netflix.com/br/title/70204970" , "https://www.netflix.com/br/title/70205012","https://www.netflix.com/br/title/80107103"];
 
 document.write("<h2 class='page-subtitle'>Animes Recomendados</h2>")
 document.write("<section id='animes'>");
