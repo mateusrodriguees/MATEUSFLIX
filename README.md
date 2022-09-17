@@ -4,7 +4,7 @@
 
 Projeto pessoal construído  para simular o aplicativo de streaming NETFLIX.
 
-[🔗 Clique aqui para acessar o projeto](https://mateusrodriguees.github.io/Mateus-Flix/)
+[🔗 Clique aqui para acessar o projeto](https://mateusrodriguees.github.io/mateusflix/)
 
 ## Tecnologias ⚙️ 
 
